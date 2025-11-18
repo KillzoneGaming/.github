@@ -4,4 +4,3 @@ KZG is an ANZ Counter-Strike Community. KZG host’s a wide variety of game serv
 
 [Discord](https://kzg.gg/Discord) | [Steam](https://kzg.gg/steam) | [Website](Website) | [PGP](https://raw.githubusercontent.com/KillzoneGaming/.github/main/Killzone%20Gaming_0x7BCF7A5D_public.asc)
 
-![Alt](https://repobeats.axiom.co/api/embed/42853c9bdfed3009c3e732a9e4ee1fb6c2728281.svg "Repobeats analytics image")
